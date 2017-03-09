@@ -1,2 +1,1 @@
-# autoencoder-anomaly
-Autoencoder example in TensorFlow used for anomaly detection on fixed size feature vector
+A quick overview of how to use Autoencoders with TensorFlow to do anomaly detection, waveform.data can be downloaded at: https://archive.ics.uci.edu/ml/machine-learning-databases/waveform/
